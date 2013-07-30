@@ -1,0 +1,99 @@
+.tablecilik{
+	font-size:14px;
+}
+
+.brandlogo{
+	float:left;
+	display:block;
+	padding:10px 20px 10px;
+	margin-left:-20px;
+	font-size:20px;
+	font-weight:200;
+	color:#ffffff;
+	text-shadow:0 1px 0 #080808;
+}
+.kuning{
+	background:#F6F6F6;
+	padding:10px;
+	margin-bottom:10px;
+}
+.wellku{
+	margin-bottom:10px;
+	padding:5px 15px 15px 15px;
+	background: #EEEEEE;
+}
+
+.dropdown-menu li>a:hover,.dropdown-menu li>a:focus,.dropdown-submenu:hover>a{
+	background:#00AFEF;
+}
+.nav-tabs.nav-stacked{
+	background:#EBEBEB;
+}
+.nav-tabs.nav-stacked >li>a:hover{
+	background-color:#00AFEF;
+	color:#ffffff;
+}
+.login{
+	margin-top:150px;
+	background-color:#fff;
+	box-shadow:0px 0px 5px #ccc;
+	border-radius:5px;
+	color: #555;
+	padding:30px;
+	font-size:11px;
+	margin-bottom:20px;
+}
+
+.kontensisi, .kontensidebar{
+	background:#ffffff;
+	padding: 20px 20px 5px 20px;
+	text-align:justify;
+	
+	
+}
+
+.footer{
+    background-color: #F2F2F2;
+	padding:10px;
+	text-align:center;
+	border-top: 1px solid #DFDFDF;
+	
+}
+.navbar-inner{
+	background:#EF7400;
+}
+
+.navbar-inverse{
+	background:#58BAE9;
+}
+
+.kepalasidebar{
+	background:#58BAE9;
+	padding:10px;
+	color:#ffffff;
+}
+
+body {
+	background: #E6E6E6 url(../img/bg_pattern.png);
+	color:#696767;
+}
+
+.table{
+	font-size:14px;
+}
+
+a:hover{
+	text-decoration:none;
+	color: #AAD8DD;
+}
+a{
+	color: #FF7518;
+}
+
+.carousel-control {
+	border: 0px;
+	background: none;
+	margin-top: 5px;
+}
+
+
